@@ -356,11 +356,11 @@
     display: none;
 }
 
-.loginForm {
+.login {
     display: block;
 }
 
-.registerForm {
+.register {
     display: block;
 }
 
@@ -1165,9 +1165,6 @@ i.home-product-item__like-icon-fill{
 .home-product-item__origin-name{
     margin-left: auto;
 
-}
-.home-product-item__brand{
- 
 }
 .home-product-item__favorite{
     position: absolute;
